@@ -43,7 +43,6 @@
 /* USER CODE BEGIN PV */
 extern char uart_received_byte;
 extern char str[200];
-extern uint8_t send_flag;
 extern uint8_t i;
 /* USER CODE END PV */
 

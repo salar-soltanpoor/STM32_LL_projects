@@ -45,7 +45,6 @@
 uint8_t i=0;
 char str[200];
 char uart_received_byte;
-uint8_t send_flag;
 /* USER CODE END PV */
 
 /* Private function prototypes -----------------------------------------------*/
