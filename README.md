@@ -7,6 +7,7 @@ Projects list:
 
 002-External Interrupt
 
+003-UART Receive and Transmit Data
 =======
 # STM32_LL_projects
 Basic Projects using stm32 and LL functions
